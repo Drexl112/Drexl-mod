@@ -1,0 +1,15 @@
+[
+{
+  "modid": "Dfm",
+  "name": "Drexl's First Mod",
+  "description": "My first mod.",
+  "version": "1.0",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drexl112"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
